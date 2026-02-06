@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+.env/
+
+# mac
+.DS_Store
+
+# logs
+*.csv
+
+# model weights later
+runs/
+*.pt
