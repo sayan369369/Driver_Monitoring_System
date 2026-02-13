@@ -6,7 +6,7 @@ The system detects fatigue indicators such as eye closure, blink patterns, and y
 
 ---
 
-## 🧠 Features
+## Features
 
 - Face landmark tracking (MediaPipe)
 - Eye Aspect Ratio (EAR) based blink detection
@@ -18,7 +18,7 @@ The system detects fatigue indicators such as eye closure, blink patterns, and y
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 The system continuously monitors the driver's face using a webcam and evaluates behavioral signals:
 
@@ -32,7 +32,7 @@ A fatigue score is accumulated over time and an alarm is triggered when the risk
 
 ---
 
-## 🖥️ Demo
+## Demo
 
 Run the system:
 
